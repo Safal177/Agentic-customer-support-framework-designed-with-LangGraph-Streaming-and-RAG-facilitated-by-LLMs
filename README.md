@@ -3,7 +3,8 @@
 # Application title: 
 Agentic customer support smart platform using LangGraph with Streaming, and RAG supported by LLMs 
 
-# Target: The main goals of this project are to make an end to end Agentic LLM pipeline with LangGraph, streaming, and RAG powered by LLMs. This workflow considers:
+# Target: 
+The main goals of this project are to make an end to end Agentic LLM pipeline with LangGraph, streaming, and RAG powered by LLMs. This workflow considers:
 •	Identify customer questions
 •	Find proper paths using sentimental analysis
 •	Advance unresolved questions to human agents
